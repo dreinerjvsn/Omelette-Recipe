@@ -7,5 +7,5 @@ estilização minimalista
 - HTML
 - CSS
 
-Para acessar o projeto:
-==> Aba de Deploys ==> 
+↓ Para acessar o projeto ↓ 
+https://dreinerjvsn.github.io/Omelette-Recipe/

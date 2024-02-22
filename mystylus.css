@@ -18,7 +18,7 @@
 }
 
 body{
-    height: 260vh;
+    height: 240vh;
     background-color: var(--bg-color);
 }
 
@@ -27,7 +27,7 @@ body{
     margin-left: 30%;
     background-color: var(--bg2-color);
     width: 40%;
-    height: 190vh;
+    height: 228vh;
     border-radius: 20px;
     z-index: 1;
 }
@@ -75,7 +75,7 @@ img{
     font-weight: 600;
     color: var(--darkraspb-color);
 }
-#lista1::marker{
+.lista1::marker{
     color: var(--darkraspb-color);
 }
 .ingredients{
@@ -89,7 +89,7 @@ img{
     font-weight: 400;
     color: var(--nutmeg-color);
 }
-#lista2::marker{
+.lista2::marker{
     color: var(--nutmeg-color);
 }
 .line{
@@ -114,11 +114,11 @@ img{
     font-size: 1.4rem;
     color: var(--nutmeg-color);
 }
-#lista3{
+.lista3{
     font-size: 0.74rem;
     padding-right: 50px;
 }
-#lista3::marker{
+.lista3::marker{
     color: var(--nutmeg-color);
     font-weight: bolder;
     font-size: 12px;
