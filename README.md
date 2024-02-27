@@ -1,7 +1,7 @@
 ## Omelette Recipe WebPage
 
 Projeto reservado à página expositiva de uma receita simples de omelete, focada na descrição e 
-estilização minimalista
+estilização minimalista.
  
 ### Ferramentas Usadas:
 - HTML
@@ -9,3 +9,4 @@ estilização minimalista
 
 ↓ Para acessar o projeto ↓ 
 https://dreinerjvsn.github.io/Omelette-Recipe/
+###Indisponível para plataformas Mobile e similares.
